@@ -15,5 +15,5 @@ STEPS:
 3) Run source("run_analysis.R") resulting in "tidy_data.txt" in parent directory
 
 DEPENDENCIES:
-run_analysis.R will automatically install the dependencies; restructure and data.table
+run_analysis.R will automatically install the dependencies; reshape and data.table
 
